@@ -1,5 +1,5 @@
 ---
-title: "___"
+title: "franquit_ngami_blog"
 site: distill::distill_website
 listing: posts
 ---
