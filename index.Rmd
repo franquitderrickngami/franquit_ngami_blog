@@ -1,5 +1,5 @@
 ---
-title: "franquit_ngami_blog"
+title: "malaria disease-franquit_ngami_blog"
 site: distill::distill_website
 listing: posts
 ---

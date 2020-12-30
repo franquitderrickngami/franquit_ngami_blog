@@ -1,0 +1,96 @@
+---
+title: "Article1:How malaria parasites hide from the human immune system "
+categories: ENGLISH FOR SCIENCE|.
+author:
+  - name: Franquit Derrick NGAMI
+    url: {http://franquit_ngami/blog}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 12-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+#  Description
+source of article: sciences news
+
+lien : https://www.sciencenews.org/article/malaria-parasite-mosquitoes-genetics-immune-system
+
+publication date : October 26th 2020
+
+word cont : 598
+
+# Vocabulary
+
+| Word from the text | Synonym/definition in English                                                                                                                                                                              | French translation     |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| malaria            | Malaria is a potentially fatal infectious disease caused by several species of parasites belonging to the genus Plasmodium. The parasite is transmitted to humans through the bite of infected mosquitoes. | paludisme              |
+| parasite           | Being who lives at the expense of another (host) without destroying him/her.                                                                                                                               | parasite               |
+| immune system      | All the cells whose role is to defend the organism against infections                                                                                                                                      | systéme immunitaire    |
+| to reply           | clone                                                                                                                                                                                                      | repliquer              |
+| may be             | probably, plausibly, possibly                                                                                                                                                                              | peut être              |
+| off in             | Preposition generally marking the position within a space, a time, a state.                                                                                                                                | en                     |
+| the dry season     | it is a season that is characterised by relatively low rainfall and drought.                                                                                                                               | saison sèche           |
+| symptomatic people | a person who presents symptoms caused by an illness, enabling the diagnosis of the illness to be established                                                                                               | personne symptomatique |
+| however            | adverb
+Considering all the reasons, all the circumstances (which could be opposed), and in spite of them                                                                                                   | toutefois              |
+|  which             | relative pronoun                                                                                                                                                                                           | laquelle, lequel       |
+
+
+# ANALYSIS TABLE ABOUT THE STUDY
+
+## Researchers
+
+The study was carried out by Erin Garcia de Jesus, who is an editor at Science News . She holds a PhD in Microbiology from the University of Washington and a Master's degree in Science Communication from the University of California, Santa Cruz.
+
+## Published in? when (if mentioned)?
+
+This article was published online on 26 October 2020 and a version of this article appears in the 21 November 2020 issue of Science News. 
+
+## General topic
+
+Starting from the observation that malaria symptoms tend to decrease during the dry season, the article tries to explain how the parasites survive during this season. In general, parasites hide in the human body by preventing the cells they infect from attaching to blood vessels. In this way, infected cells are eliminated, which lowers the parasite density in the body, making people less sick and allowing the parasite to persist undetected. the researchers want to know how malaria parasites persist without causing disease, until the mosquitoes return to carry the organisms from one infected person to the next victim.
+
+
+## Procedure/ what was examined
+
+To conduct this study, researchers compared genes turned on or off in samples taken from asymptomatic people during the dry season and symptomatic people during the rainy season. 
+
+
+## Conclusions/ discovery
+
+After this the researchers found that out of the 1607 genes present in the distinct seasonal patterns that during the dry season, 1,131 genes were turned on that were turned off in the rainy season pests. A further 476 were switched off in dry season parasites, suggesting that when the rainy season ends, P. falciparum may change its genetics to make red blood cells less sticky. This allows the parasite to replicate and persist without setting off alarm bells that alert the immune system to fight the infection.
+
+
+## Remaining questions
+
+it is still not known which specific genes are involved in the change during the two seasons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

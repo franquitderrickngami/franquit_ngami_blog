@@ -1,5 +1,5 @@
-name: "blog-template"
-title: "franquit_ngami's Blog"
+name: "franquit_ngami's Blog"
+title: "malaria diseas-franquit_ngami's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -15,7 +15,7 @@ base_url: http://franquit_ngami/blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      #disqus: https://http-franquit-ngami-blog.disqus.com/admin/settings/general/
 output:
   distill::distill_article:
     css: style.css
