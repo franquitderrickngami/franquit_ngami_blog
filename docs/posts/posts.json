@@ -1,5 +1,32 @@
 [
   {
+    "path": "posts/2020-12-30-graphicdescription/",
+    "title": "graphic_description ",
+    "description": {},
+    "author": [
+      {
+        "name": "Franquit Derrick NGAMI",
+        "url": {
+          "http://franquit_ngami/blog": {}
+        }
+      },
+      {
+        "name": "Benedicte BOUCHET",
+        "url": {}
+      },
+      {
+        "name": "Engels Guyliann",
+        "url": "https://guyliann.netlify.com/fr"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "preview": "posts/2020-12-30-graphicdescription/graphicdescription_files/figure-html5/graphe-1.png",
+    "last_modified": "2020-12-31T00:08:46+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/article1/",
     "title": "Article1:How malaria parasites hide from the human immune system ",
     "description": {},
@@ -19,12 +46,12 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-12-24",
+    "date": "2020-12-30",
     "categories": [
       "ENGLISH FOR SCIENCE|."
     ],
     "preview": {},
-    "last_modified": "2020-12-30T17:44:52+01:00"
+    "last_modified": "2020-12-30T22:20:53+01:00"
   },
   {
     "path": "posts/about/",

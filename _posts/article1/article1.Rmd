@@ -8,7 +8,7 @@ author:
     url: {}
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
-date: 12-24-2020
+date: 12-30-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -73,24 +73,4 @@ After this the researchers found that out of the 1607 genes present in the disti
 ## Remaining questions
 
 it is still not known which specific genes are involved in the change during the two seasons
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
