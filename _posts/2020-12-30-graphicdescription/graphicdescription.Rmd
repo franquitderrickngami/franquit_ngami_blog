@@ -1,7 +1,7 @@
 ---
-title: "graphic_description "
-categorie: Data Sciences I
-description: |visualisation of the weight in relation to the buayant weight of sea urchins on the farm and in the fishery.
+title: "Graphic_description "
+categories: BIO DATA SCIENCES I|.
+
 author:
   - name: Franquit Derrick NGAMI
     url:
@@ -23,15 +23,25 @@ SciViews::R
 ```{r, echo=FALSE}
 urchin <- read("urchin_bio", package = "data.io")
 ```
+
 # Description
 
 we have chosen the urchi_bio dataset which describes various measurements on Paracentrotus lividus sea urchins from fishing (Brittany, France), or from a sea urchin farm in Normandy, this dataset contains 19 variables.
 
-# Graphique
+# Graph
 
-```{r graphe }
+## Graph showing the mass of sea urchins in relation to the submerged mass
+
+
+```{r, echo=FALSE}
 chart(urchin, formula = weight ~ buoyant_weight %col=% origin %shape=% sex ) +
   geom_point(na.rm= TRUE)
 ```
 
+
+
 This graph is a scatter plot showing weight versus buayant weight using colour to differentiate the origin of individuals and different shapes to differentiate the gender of individuals. The weight are proportional to their floating weight. Farmed sea urchins have a greater weight than fishery urchins. 
+
+# conclusion
+
+farmed sea urchins have a high mass compared to sea urchins fished in their natural environment.
