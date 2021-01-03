@@ -20,13 +20,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 #  Description
-source of article: sciences news
 
-lien : https://www.sciencenews.org/article/malaria-parasite-mosquitoes-genetics-immune-system
+*source of article*: sciences news
 
-publication date : October 26th 2020
+ 
+[sciencenews](https://www.sciencenews.org/article/malaria-parasite-mosquitoes-genetics-immune-system)
 
-word cont : 598
+*publication date* : October 26th 2020
+
+*word cont* : 598
 
 # Vocabulary
 
