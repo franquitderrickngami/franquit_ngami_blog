@@ -1,6 +1,6 @@
 ---
-title: "mon article"
-description: |
+title: "Article 2"
+description: Heating deltamethrin may help it kill pesticide-resistant mosquitoes
   A short description of the post.
 author:
   - name: Franquit Derrick NGAMI
@@ -20,7 +20,59 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# **ARTICLE 2 : Heating deltamethrin may help it kill pesticide-resistant mosquitoes**
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+# **I Description**
+
+Source of the article:  [Sciences news](https://www.sciencenews.org/article/heat-deltamethrin-pesticide-resistant-mosquitoes-insecticide) 
+
+Date of publication : 19 th october 2020
+Word count : 490
+
+# **II VOCABULARY**
+
+| Word from the text | Synonym/definition in English                                                                                         | French translation |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| microwave          | is a household   appliance                                                                                            | Micro-onde         |
+| insecticide        | is an active substance or preparation with the property of killing insects.                                           | Insecticide        |
+| mosquitoes         | Dipteran insect whose   female bites the skin to suck blood                                                           | Moustiques         |
+| experiments        | Testing the reality of a scientific theory                                                                            | Expériences        |
+|  toxin             | Toxic substance produced by a living organism to which it confers its pathogenic power                                | Toxine             |
+| microscopic        | Visible only under the microscope                                                                                     | Microscopique      |
+| resistance         | refers to the adaptation of pathogens to the treatments implemented.                                                  | Résistance         |
+| chemicals          | Liquid, solid or gaseous substance created by the assembly of different chemical products                             | Produits chimiques |
+| toxic              | product or substance   that is harmful to the body                                                                    | Toxique            |
+| Anopheles          | Dipteran insect,   close to the cousins or mosquitoes, whose female transmits malaria, malaria,   filariasis by bite, | Anophèles          |
+
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+The study that is the subject of this article was conducted by Bart Kahr crystallographer at New York Universit.
+
+## **2 Published in?**
+
+The author of this article is by Maria Temming on October 19, 2020 in Sciences News. 
+
+## **3 General topic**
+
+This article discusses deltamethrin, a toxin used worldwide in household sprays and bed nets to stop the spread of mosquito-borne diseases such as malaria. according to this study Bart Kahr and his team have developed a more potent version of deltamethrin that works 12 times faster than the older version. In fact, studies conducted on mosquitoes and the results revealed that the modified version of deltamethrin eliminated about half of the A. quadrimaculatus mosquitoes (carrier of the malaria parasite) exposed in less than 24 minutes. In contrast, it took nearly five hours for the original spray to eliminate half of the exposed Anopheles mosquitoes. Similarly, it took only 21 minutes for the new spray to eliminate half of the exposed A. aegypti, whereas the original spray took more than three hours.
+
+## **4 Procedure/ what was examined**
+
+Kahr’s team increased the potency of commercial deltamethrin dust spray simply by melting a vial of it either by heating it to 150° Celsius in an oil bath for five minutes or by popping it in a 700 watt microwave for the same amount of time. While the microscopic deltamethrin crystals in the original spray have a haphazard structure, which looks like a jumble of misaligned flakes, the melted deltamethrin crystals solidified into starburst shapes when they cooled to room temperature.
+
+## **5 Conclusions/ discovery**
+
+This discovery may provide solutions for the control and eradication of mosquitoes and the destruction of resistant strains of Anopheles.
+
+## **6 Remaining questions**
+
+the work carried out by this team is wonderful, but will this product be effective against all species of anopheles in the sub-Saharan tropics? will it not be toxic for humans or other insects?
+
+
+
+
+
 
