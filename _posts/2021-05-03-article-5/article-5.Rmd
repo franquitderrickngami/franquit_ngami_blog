@@ -1,0 +1,82 @@
+---
+title: "article 5"
+description: |
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# **ARTICLE 5: Certain gut microbes make mosquitoes more prone to carry malaria parasite **
+
+# **I Description**
+
+Source of the article:  [Science daily](https://www.sciencedaily.com/releases/2021/04/210420121526.htm) 
+
+Date of publication : April 20, 2021
+
+Word count : 334
+
+# **II VOCABULARY**
+
+| Word from the text | Synonym/definition in English                                                                                                                                                        | French translation   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| Dietary sugars     | sugar that comes from the metabolism of the living being                                                                                                                             | Sucre métabolique    |
+| gut microbes       | these are the microbes found in the intestine                                                                                                                                        | microbes intestinaux |
+| glucose            | sugar is very common   in nature and is an essential source of energy for the body                                                                                                   | glucose              |
+| metabolism         | All the chemical and biological transformations that take place in the body.                                                                                                         | métabolisme          |
+| proliferation      | Expansion, gain                                                                                                                                                                      | proliferation        |
+| oocytes            | is an immobile cell, most often spherical, and whose differentiation is essentially characterized by the elaboration and accumulation of reserve materials constituting the vitellus | oocytes              |
+|  antibiotic        | Medicine that fights   against microbial infections                                                                                                                                  | antibiotiques        |
+| microbes           | Single-celled pathogenic microorganism                                                                                                                                               | microbes             |
+| colonized          |  is the presence of bacteria on a body surface (like on the skin, mouth, intestines or airway) without causing disease in the person                                                 | coloniser            |
+| microbiota         | All the micro-organisms living in a given ecosystem                                                                                                                                  | microbiote           |
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+The authors of this research are Wang, An and Gao et al from Fudan University in Shanghai, China.
+
+
+## **2 Published in?**
+
+ the article was published on April 20, 2021 in the scientific journal Science Daily
+
+## **3 General topic**
+
+Dietary sugars and gut microbes play a key role in promoting malaria parasite infection in mosquitoes. Researchers in China have uncovered evidence that mosquitoes fed a sugar diet show an increased abundance of the bacterial species Asaia bogorensis, which enhances parasite infection by raising the gut pH level. 
+
+## **4 Procedure/ what was examined**
+
+the study procedure has not been elucidated in this article.
+
+## **5 Conclusions/ discovery**
+
+The results of this study will provide useful information for the development of preventive vector control strategies.
+
+
+## **6 Remaining questions**
+
+What role would glucose metabolism play in malaria transmission? This question is not always answered by the researchers of this study.
+
+
+
+
+
+
+

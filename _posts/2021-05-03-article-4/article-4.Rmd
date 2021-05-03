@@ -1,0 +1,86 @@
+---
+title: "article 4"
+description: |Children can be stealth superspreaders of malaria to mosquitoes
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# **ARTICLE 4 : Children can be stealth superspreaders of malaria to mosquitoes **
+
+# **I Description**
+
+Source of the article:  [live science](https://www.livescience.com/asymptomatic-children-malaria-reservoir.html) 
+
+Date of publication : 18th november 2020
+
+Word count : 564
+
+# **II VOCABULARY**
+
+| Word from the text | Synonym/definition in English                                                                                                                                             | French translation |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| children           | Being human in the   age of childhood                                                                                                                                     | enfant             |
+| superspreaders     | it refers to a person who infects a disproportionate number of people when compared to the average person                                                                 | super propagateur  |
+| infect             | Penetration and development in a living being of micro-organisms which can cause lesions by multiplying, and possibly by secreting toxins or by being propagated by blood | infection          |
+| transmit           | Passing from one person to another                                                                                                                                        | transmettre        |
+| blood              | it is a liquid tissue   which circulates in our body thanks to the blood vessels                                                                                          | sang               |
+| school-age         | Age at which a child can be legally admitted to a school                                                                                                                  | Age scolaire       |
+| epidemiologist     | Specialist in the study of epidemics, epidemic control                                                                                                                    | epidémiologiste    |
+| pick up            | meet                                                                                                                                                                      | ramasser           |
+|  blueprint         | It defines a strategy to be applied to achieve a desired result.                                                                                                          | Plan d’action      |
+| households         | refers to all the   occupants of the same dwelling without these persons necessarily being   related to each other                                                        | ménage             |
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+The article was published by Nicoletta Lanese - Staff Writer.
+The authors of the research are: lead author Teun Bousema, a malaria epidemiologist at Radboud, and Chiara Andolina, a graduate student and malaria specialist at Radboud University.
+
+
+## **2 Published in?**
+
+ this article was published in live science magazine on November 18, 2020
+
+## **3 General topic**
+
+According to the authors, school-age children are malaria superpropagators. Since asymtomatic malaria is not treated in children, this would promote the evolution of the disease. Since this disease is transmitted from humans to mosquitoes and back again, rather than from person to person, this finding is worrisome. Overall, the researchers estimated that children aged 5 to 15 years account for nearly 57% of the infectious reservoir, meaning that they carry most of the parasites that could infect mosquitoes with malaria. After school-age children, children under 5 years of age represent 27.5% of the reservoir, while those 16 years and older represent the remaining 15.7%.
+
+
+
+## **4 Procedure/ what was examined**
+
+To do this study the researchers conducted a study in Tororo, Uganda, the team recruited 531 adults and children from 80 households and followed them for malaria for two years. Each month, they performed diagnostic tests and collected blood samples from participants; the blood was tested for malaria parasites and then used in mosquito feeding experiments. 
+During the study, the team detected 148 episodes of malaria-38 symptomatic and 110 asymptomatic. They conducted nearly 540 experiments feeding mosquitoes with blood from 107 of the infected individuals, using a device that keeps the blood warm with circulating water. In each experiment, dozens of mosquitoes were released into a container with the device, where they could access the blood through a membrane that mimicked human skin.
+
+
+## **5 Conclusions/ discovery**
+
+Effective malaria control also includes strengthening the distribution of insecticide-treated bed nets to young children under age 5 and pregnant women, school-age children, and adults. testing and treatment campaigns in schools could help eliminate new cases of malaria before they are transmitted to local mosquitoes, and preventive drugs, many of which can also be used to treat malaria, could help children to contract and transmit the disease.
+
+
+## **6 Remaining questions**
+
+is this why malaria kills more children than adults?
+
+
+
+
+
+
+
