@@ -1,0 +1,85 @@
+---
+title: "Article 3"
+description: |A New Strain of Drug-Resistant Malaria Has Sprung Up in Africa
+
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-02-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# **ARTICLE 3 : A New Strain of Drug-Resistant Malaria Has Sprung Up in Africa**
+
+# **I Description**
+
+Source of the article:  [scientific american ](:  https://www.scientificamerican.com/article/a-new-strain-of-drug-resistant-malaria-has-sprung-up-in-africa/) 
+
+Date of publication : January 2, 2021
+Word count : 305
+
+# **II VOCABULARY**
+
+| Word from the text | Synonym/definition in English                                                                                                                                 | French translation |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| drug               | Substance specially   prepared for use as a remedy                                                                                                            | médicament         |
+| treatments         | Way of treating (a patient, a disease); all the means used to cure                                                                                            | traitement         |
+| science            | General knowledge package                                                                                                                                     | science            |
+| mutations          | Change and evolution                                                                                                                                          | mutations          |
+| pandemic           | Epidemic that affects   a large number of people, in a very large geographical area                                                                           | pandémie           |
+| surveillance       | all the acts by which one exercises a control followed                                                                                                        | surveillance       |
+| artemisinin        | artemisinin is a   substance made by a plant, the annual mugwort, or Artemisia annua, used in   traditional Chinese medicine as a basic treatment for malaria | artémisinine       |
+|  Pharmaceutical    | all items under the responsibility of one or more pharmacists                                                                                                 | Pharmaceutique     |
+| antimalarials      | drug that treats and   prevents malaria                                                                                                                       | Antipaludéen       |
+| mutant             | that has undergone a mutation                                                                                                                                 | mutant             |
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+This article was written by Thomas Hallau2
+
+## **2 Published in?**
+
+This article was published on January 2, 2021 in the scientific american magazine
+
+
+## **3 General topic**
+
+This article talks about antimalarial resistance, the situation that leads to this resistance and gives us solutions to avoid or to fight against antimalarial resistance
+
+## **4 Procedure/ what was examined**
+
+- Ensure that providers and patients use drugs effectively
+- Take action today to maximize the longevity of ACTs
+- Develop the next generation of treatments
+- Expand lab testing capacity
+- Develop a cross-border action plan with neighboring countries.
+
+
+## **5 Conclusions/ discovery**
+
+The proper use of antimalarial drugs, mosquito nets, and the improvement of research laboratories will help us to fight and avoid antimalarial drug resistance.
+
+## **6 Remaining questions**
+
+Would the proper use of antimalarials contribute to the effective control of malaria?
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+---
+title: "conclusion"
+description: |
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+                        Conclusion
+
+ Reading all these articles informs us about the difficulties to defeat and eradicate malaria in Africa as some countries have done because we are witnessing more and more mutations and resistances to anti-malarial drugs which are most often due to the wrong use of drugs. We also note the advances in research of vaccines that finally give hope to a whole people who are waiting for a solution to finally stop counting the millions of deaths from malaria.
+Personally, this work has allowed me to read about 20 articles all about malaria and I have greatly improved my knowledge about this disease that kills thousands of people in Africa per year.

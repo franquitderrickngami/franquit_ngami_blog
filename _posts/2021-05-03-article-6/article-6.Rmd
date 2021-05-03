@@ -1,0 +1,85 @@
+---
+title: "article 6"
+description: |New malaria vaccine successful in Africa trial
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+# **ARTICLE 6 : New malaria vaccine successful in Africa trial**
+
+# **I Description**
+
+Source of the article:  [bbc news](https://www.bbc.co.uk/newsround/56860191) 
+
+Date of publication : 23th April 2021
+
+Word count : 386
+
+# **II VOCABULARY**
+
+| Word from the text | Synonym/definition in English                                                                                                                                                                                                                        | French translation |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| vaccine            | Vaccines prevent the spread of diseases                                                                                                                                                                                                              | vaccin             |
+| Africa             | Proper noun, singular (geographical name). Africa is a continent of 54 countries                                                                                                                                                                     | Afrique            |
+| successful         | Selected, conclusive, favorable, fruitful                                                                                                                                                                                                            | Réussies           |
+| disease            | Illness/ Disease is an alteration in the function or health of a living organism                                                                                                                                                                     | Maladie            |
+| die                | Complete and definitive cessation of the life of a human being, an animal                                                                                                                                                                            | Mourir             |
+| Serum              | Serum is a liquid extracted from blood, consisting of organic and mineral substances. It is administered to cure a disease, virus or bacteria that has already contaminated the body, it acts quickly and cures the disease or infection immediately | Sérum              |
+| forcefully         | adverd                                                                                                                                                                                                                                               | Energiquement      |
+| Emergency          |  Which cannot be   delayed, which must be attended to without delay                                                                                                                                                                                  | Urgent             |
+| argument           | Reasoning intended to convince, to make someone share his opinion                                                                                                                                                                                    | Argument           |
+| doses              | Amount of medication to be taken at one time                                                                                                                                                                                                         | doses              |
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+
+the researchers are scientists from the Jenner Institute at Oxford University, assisted by Professor Adrian Hill.
+
+## **2 Published in?**
+
+ 
+this article was published on 23 April 2021 in BBC news .
+
+## **3 General topic**
+
+This article talks in general in the research of the vaccine against malaria which is a disease that kills more than COVID - 19 in Africa for many years. Indeed, it is 
+The successful trial of this malaria vaccine could help save millions of children around the world thanks to scientists from the Jenner Institute at Oxford University who tested their vaccine on 450 children in the African country of Burkina Faso and found that the vaccine had 77% success against the virus in the trial and will now test it on a larger scale in four countries. Pending WHO approval this is news that brings us hope in the fight against this disease.
+
+
+## **4 Procedure/ what was examined**
+
+they proceeded to test malaria vaccine on 450 children in Burkina Faso.
+
+
+## **5 Conclusions/ discovery**
+
+The fight against malaria requires a vaccine and this vaccine brings great hope to many families.
+
+## **6 Remaining questions**
+
+Will the WHO accept more extensive testing as they did for Covid-19?
+
+
+
+
+
+

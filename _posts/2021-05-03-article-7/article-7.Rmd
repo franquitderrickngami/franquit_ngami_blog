@@ -1,0 +1,85 @@
+---
+title: "article 7"
+description: |Malaria vaccine hailed as potential breakthrough
+
+
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+# **ARTICLE 7 : Malaria vaccine hailed as potential breakthrough**
+
+# **I Description**
+
+Source of the article:  [bbc news](https://www.bbc.com/news/health-56858158) 
+
+Date of publication : 23th april 2021
+
+Word count : 439
+
+# **II VOCABULARY**
+
+| Word from the text     | Synonym/definition in English                                                                                       | French translation          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+|  started               | to begin, to commit                                                                                                 | A débuté                    |
+| Clinical Research Unit | The clinical research unit is dedicated to the development, organization and professionalization of clinical trials | Unité de recherche clinique |
+| parasitology           | Parasitology is the study of parasites, their hosts and their mutual interactions.                                  | parasitologie               |
+| investigator           | Systematic and thorough research                                                                                    | investigation               |
+|  efficacy              | used to characterize something or someone who is efficient, i.e. who achieves the expected result                   | éfficacité                  |
+| Biotechnology          | Technique that relies   on the action of microorganisms to produce chemical reactions                               | Biotechnologie              |
+| causes                 | That which produces something; reason or origin of something                                                        | causes                      |
+| stronger               | having strength or power greater than average or expected                                                           | Plus fort                   |
+|  health                | Normal state of the body                                                                                            | santé                       |
+| Burkina Faso           | burkina faso means "integrity, honor" it is a country located in West Africa.                                       | Burkina Faso                |
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+The author of the study is Professor Adrian Hill, Director of the Jenner Institute and Professor of Vaccinology at Oxford University. This article was published by Philippa Roxby Health reporter
+
+## **2 Published in?**
+
+ This article was published on April 23 in BBB news by Philippa Roxby with more detail than the previous article studied on the same subject.
+
+
+## **3 General topic**
+
+According to the researchers this malaria vaccine is the first to achieve the required target among many previously tested vaccines because the most effective malaria vaccine to date has only shown 55% efficacy in trials on African children. Trials of this malaria vaccine began in 2019, long before the coronavirus emerged, and the Oxford team developed its Covid vaccine (with AstraZeneca) based on its malaria research, Professor Hill said. A malaria vaccine has taken much longer to come to fruition because there are thousands of genes in malaria compared to a dozen in the coronavirus, and a very high immune response is needed to fight the disease
+
+
+## **4 Procedure/ what was examined**
+
+The researchers tested nearly 450 children in Burkina Faso and followed them for 12 months.
+
+## **5 Conclusions/ discovery**
+
+The results of R21 are encouraging, When combined with other preventive measures, such as effective mosquito control, even a vaccine with less than 75% efficacy could help reduce the number of deaths
+
+
+## **6 Remaining questions**
+
+Larger trials involving nearly 5,000 children aged five months to three years will now be conducted in four African countries to confirm the results. Will these trials be successful?
+
+
+
+
+
+

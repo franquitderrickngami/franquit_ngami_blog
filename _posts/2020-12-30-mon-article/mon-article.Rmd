@@ -1,5 +1,5 @@
 ---
-title: "mon article"
+title: "Introduction paludisme"
 description: |
   A short description of the post.
 author:
@@ -19,5 +19,23 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+**INTRODUCTION**
+
+Malaria is the most common parasitic infection in the world. It is an acute febrile illness caused by parasites transmitted to humans. The disease affects more than **200 million people worldwide each year**.
+
+The parasite is transmitted by the bite of a mosquito, the female Anopheles. In exceptional cases, it can be transmitted by blood transfusion. Human-to-human contamination is possible, from an infected woman to her child through the placenta.
+
+The infectious agent responsible is a parasite of the genus Plasmodium. Several species of Plasmodium can infect humans. They are found in different geographical areas in Africa, Asia and America:
+*Plasmodium falciparum*: represents the most frequent and especially the most dangerous species. It is found in tropical and subtropical areas throughout the world; we also have *Plasmodium ovale*, *Plasmodium vivax*; *Plasmodium malariae* and *Plasmodium knowlesi*.
+
+The severe clinical manifestations observed in some cases are related to the rapid multiplication of the *Plasmodium falciparum* parasite in the capillaries (small blood vessels) of the brain with anoxia (significant reduction in oxygen supply). Malaria is characterised by the occurrence of acute episodes of fever (malaria attacks). It does not always begin noisily. **The first symptoms (fever, headache, chills, vomiting, muscle pain), which usually appear about ten days after the mosquito bite, may not be very marked**.
+
+If not treated promptly, *Plasmodium falciparum* malaria (the form most commonly found in Africa) can rapidly worsen and even lead to death. This type of Plasmodium is responsible for serious malaria attacks, known as pernicious malaria, which are a sign of cerebral damage (neuromalaria). **They are manifested by a very high fever (41-42°C), serious neurological disorders with consciousness disorders (convulsions, coma, signs of meningitis)** and various general signs **(significant anaemia, hypoglycaemia, coagulation disorders and haemorrhages, liver and kidney damage)**.
+
+**Artemisinin-based combination therapy (ACT)** is considered by the WHO to be a very effective treatment for the disease.
+
+**Malaria is taking its toll on my continent, several members of my family have died from this disease and several times I have suffered from malaria hence my interest in this disease.** No solution has been found to fight this disease effectively in order to eradicate it completely. In spite of the campaigns of fight and sensitization this disease still makes many deaths and through the articles that we will find on the disease we will try to explain why the disease makes so much devastation.
+
 
 

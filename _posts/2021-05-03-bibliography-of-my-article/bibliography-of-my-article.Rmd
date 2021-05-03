@@ -1,0 +1,50 @@
+---
+title: "bibliography of my article"
+description: |
+  A short description of the post.
+author:
+  - name: Franquit Derrick NGAMI
+    url:
+      http://franquit_ngami/blog: {}
+  - name: Benedicte BOUCHET
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+                Bibliography
+
+1.	Article 1: How malaria parasites hide from the human immune system source of the article : https://www.sciencenews.org/article/malaria-parasite-mosquitoes-genetics-immune-system
+
+2.	Article 2 : Heating deltamethrin may help it kill pesticide-resistant mosquitoes
+
+Source of the article: https://www.sciencenews.org/article/heat-deltamethrin-pesticide-resistant-mosquitoes-insecticide
+3.	Article 3 : A New Strain of Drug-Resistant Malaria Has Sprung Up in Africa
+Source of the article :  https://www.scientificamerican.com/article/a-new-strain-of-drug-resistant-malaria-has-sprung-up-in-africa/
+4.	Article 4: Children can be stealth superspreaders of malaria to mosquitoes
+Source of the article:https://www.livescience.com/asymptomatic-children-malaria-reservoir.html
+
+5.	Article 5 : Certain gut microbes make mosquitoes more prone to carry malaria parasite
+Source of the article: https://www.sciencedaily.com/releases/2021/04/210420121526.htm
+
+6.	Article 6 : New malaria vaccine successful in Africa trial
+           Source of the article: https://www.bbc.co.uk/newsround/56860191
+7.	Article7 : Malaria vaccine hailed as potential breakthrough
+Source of the article: https://www.bbc.com/news/health-56858158
+
+
+
+
+
+
+
+
+
