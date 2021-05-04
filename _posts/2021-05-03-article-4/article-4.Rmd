@@ -1,7 +1,7 @@
 ---
 title: "article 4"
-description: |Children can be stealth superspreaders of malaria to mosquitoes
-  A short description of the post.
+description:
+  Children can be stealth superspreaders of malaria to mosquitoes
 author:
   - name: Franquit Derrick NGAMI
     url:

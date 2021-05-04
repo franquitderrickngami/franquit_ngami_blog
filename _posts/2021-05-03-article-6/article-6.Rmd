@@ -1,7 +1,7 @@
 ---
 title: "article 6"
-description: |New malaria vaccine successful in Africa trial
-  A short description of the post.
+description: 
+  New malaria vaccine successful in Africa trial
 author:
   - name: Franquit Derrick NGAMI
     url:

@@ -1,7 +1,7 @@
 ---
 title: "Article 2"
-description: Heating deltamethrin may help it kill pesticide-resistant mosquitoes
-  A short description of the post.
+description: 
+  Heating deltamethrin may help it kill pesticide-resistant mosquitoes
 author:
   - name: Franquit Derrick NGAMI
     url:

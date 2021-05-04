@@ -85,7 +85,7 @@ Lorsque vous avez édité un article, vous devez cliquer sur Knit afin de créer
 ### Procédure
 
 Dans Rstudio
-
+dis
 1. Ouvrer votre projet de blog
 
 Dans la console de RStudio,
