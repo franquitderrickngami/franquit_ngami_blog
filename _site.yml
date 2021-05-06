@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/franquitderrickngami/franquit_ngami_blog
-base_url: franquitderrickngami.github.io/franquit_ngami_blog
+base_url: http://franquitderrickngami.github.io/franquit_ngami_blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]

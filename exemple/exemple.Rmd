@@ -1,0 +1,54 @@
+---
+title: "exemple"
+author: "Franquit Derrick NGAMI"
+date: "02/05/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# **ARTICLE  : **
+
+# **I Description**
+
+Source of the article:  []() 
+
+Date of publication : 
+Word count : 
+
+# **II VOCABULARY**
+
+
+
+# **III ANALYSIS TABLE ABOUT THE STUDY**
+
+## **1 Researchers**
+
+
+
+## **2 Published in?**
+
+ 
+
+## **3 General topic**
+
+
+
+## **4 Procedure/ what was examined**
+
+
+
+## **5 Conclusions/ discovery**
+
+
+
+## **6 Remaining questions**
+
+
+
+
+
+
+
+

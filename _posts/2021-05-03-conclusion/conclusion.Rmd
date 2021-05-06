@@ -1,7 +1,7 @@
 ---
 title: "conclusion"
-description: |
-  A short description of the post.
+description: 
+  my conclusion
 author:
   - name: Franquit Derrick NGAMI
     url:
